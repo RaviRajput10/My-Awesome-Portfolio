@@ -20,7 +20,7 @@ body {
 header {
   height: 100vh;
   width: 100%;
-  background-image: url(/imgs/bg-img-blue.jfif);
+  background-image: url(/imgs/bg-img);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
