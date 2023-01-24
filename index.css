@@ -33,7 +33,9 @@ nav {
   align-items: center;
   justify-content: space-between;
   /* gap: 10%; */
-  padding: 40px 10% 0 10%;
+  padding: 40px  10% 0 10%;
+  /* position: fixed;
+  top: 30px; */
 }
 
 .logo {
